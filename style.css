@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(219, 212, 212);
+    
+}
+
+
+h1 {
+    background-color: green;
+    color: white;
+    text-align: center;
+    height:50px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.percentage {
+   background-color:rgb(225, 11, 100);
+   width: 200px;
+   line-height: 20px;
+}
+.pixel {
+    background-color: blue;
+    width: 150px;
+    line-height: 20px;
+}
+.em {
+    background-color:orange;
+    width: 130px;
+    line-height: 20px;
+
+}
+.viewport {
+    background-color:purple;
+    width: 220px;
+    line-height: 20px;
+}
+h2 {
+    color: green;
+}
+button {
+    background-color: green;
+    color:white;
+}
+input {
+    margin: 0px;
+    width: 250px;
+
+}
